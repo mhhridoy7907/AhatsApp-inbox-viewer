@@ -5,13 +5,14 @@
 A simple and beautiful **WhatsApp chat viewer** that converts exported **.txt chat files** into a **WhatsApp-style conversation interface** directly in your browser.
 
 Built using **HTML, CSS, and JavaScript**.
-## Demo
 
-![priview](Code/wpp.png)
+## DemoView
+
+![priview](Code/wp.png)
 
 ----
 
-![priview](Code/wp.png)
+![priview](Code/wpp.png)
 
 
 ---
